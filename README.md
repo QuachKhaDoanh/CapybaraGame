@@ -25,17 +25,17 @@ Dưới đây là một số hình ảnh minh họa cho trò chơi:
 - **Thao tác chơi:** Người chơi click vào capybara để ghi điểm. Mỗi lần click đúng, điểm số của bạn sẽ tăng lên.
 - **Kết thúc game:** Trò chơi sẽ tự động kết thúc khi hết thời gian. Hệ thống sau đó sẽ hiển thị tổng điểm mà người chơi đạt được.
 
-## 🎯 Mục tiêu
+##  Mục tiêu
 Đạt điểm cao nhất có thể trong thời gian ngắn nhất.
 
-## 🛠 Công nghệ sử dụng
+## Công nghệ sử dụng
 - **Frontend:** HTML, CSS, JavaScript.
 - Có thể sử dụng các framework như Next.js (tuỳ thuộc vào version của project).
 - Trò chơi chạy trực tiếp trên trình duyệt mà không cần phải cài đặt.
 - Game được xây dựng tối ưu để load nhanh, dễ dàng deploy (trên các nền tảng như Vercel, Netlify) nhằm tối ưu trải nghiệm người dùng.
 
-## ✨ Điểm nổi bật
+## Điểm nổi bật
 - Gameplay cực kỳ đơn giản, dễ tiếp cận.
 - Không yêu cầu đăng nhập, người dùng có thể chơi ngay lập tức.
 - Rất phù hợp để làm project demo frontend hoặc luyện tập logic game cơ bản.
-- **Khả năng mở rộng:** Có thể phát triển thêm các tính năng như Leaderboard (bảng xếp hạng), chia Level tăng dần độ khó, hoặc bổ sung thêm Animation & Sound cho sinh động.
+- **Khả năng mở rộng:** Có thể phát triển thêm các tính năng như Leaderboard (bảng xếp hạng), chia Level tăng dần độ khó, hoặc bổ sung thêm Animation & Sound cho sinh động
